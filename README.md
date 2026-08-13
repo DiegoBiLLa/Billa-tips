@@ -35,6 +35,7 @@ Busco minha primeira oportunidade de estágio na área de desenvolvimento, com f
 
 ## 📫 Contato
 
-- LinkedIn: https://linkedin.com/in/SEU-LINK
-- E-mail: seuemail@exemplo.com
+- LinkedIn: www.linkedin.com/in/diego-lima-5b0202142
+
+- E-mail: diego.19.lima@gmail.com
 
