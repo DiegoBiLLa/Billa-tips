@@ -29,6 +29,11 @@ Aplicação simples para o controle de um pequeno estoque de alimentos.
 
 🔗https://github.com/jetbrains://pycharm/navigate/reference?project=CONTROLE-DE-ESTOQUE&path
 
+### Estoque de compra e venda de Whiskys (Phyton)
+Compra e venda de bebidas para maiores de 18 anos
+
+🔗https://github.com/jetbrains://pycharm/navigate/reference?project=Whiskys&path
+
 ## 📚 Objetivo
 
 Busco minha primeira oportunidade de estágio na área de desenvolvimento, com foco em desenvolvimento web e programação back-end.
